@@ -145,7 +145,7 @@ color: #fff;
 
 .link{
 	padding:15px 35px;
-	background:#7cc576;
+	background:#f03434;
 	color:#fff !important;
 	font-size:16px;
 	font-weight:400;
@@ -161,12 +161,12 @@ color: #fff;
 }
 .link:hover {
 	text-decoration:none;
-	color:#7cc576 !important;
+	color:#000 !important;
 	background:#fff;
 }
 
 .link:active, .link:focus {
-	background: #7cc576;
+	background: #ececec;
 	text-decoration:none;
 	color:#fff !important;
 }
@@ -247,7 +247,7 @@ color: #fff;
 /* Featured Work
 ---------------------------------*/
 .featured-work{
-	font-size:14px;
+	font-size:16px;
 }
 .featured-work h2{
 	text-align:left;
